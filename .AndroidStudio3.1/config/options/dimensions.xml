@@ -1,0 +1,35 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="962" y="456" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="560" y="286" />
+    <location key="deploy.picker.dialog.0.0.1920.1080@120dpi" x="639" y="254" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="1365" y="143" />
+    <location key="#Project_Structure.0.0.1920.1080@120dpi" x="438" y="72" />
+    <location key="#Auto_Import.0.0.1920.1080@120dpi" x="639" y="150" />
+    <location key="#Updates.0.0.1920.1080@120dpi" x="739" y="309" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="317" y="65" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="689" y="186" />
+    <location key="Github.ShareDialog.0.0.1920.1080@120dpi" x="736" y="368" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="413" y="154" />
+    <location key="Github.CreateGistDialog.0.0.1920.1080@120dpi" x="762" y="398" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1920.1080@120dpi" x="539" y="254" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1920.1080@120dpi" x="539" y="254" />
+    <location key="chooseDestDirectoryDialog.0.0.1920.1080@120dpi" x="729" y="270" />
+    <location key="svn.repositoryBrowser.0.0.1920.1080@120dpi" x="786" y="285" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="376" y="39" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080@120dpi" x="687" y="364" />
+    <location key="DiffContextDialog.0.0.1920.1080@120dpi" x="183" y="79" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" x="560" y="181" />
+    <location key="#Notifications.0.0.1920.1080@120dpi" x="646" y="167" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1920.1080@120dpi" x="550" y="147" />
+    <location key="GitCloneDialog.0.0.1920.1080@120dpi" x="528" y="477" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="926" height="260" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="926" height="260" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="926" height="260" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="926" height="260" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1094" height="792" />
+    <size key="javadoc.popup.0.0.1920.1080@120dpi" width="557" height="216" />
+    <size key="VCS.ChangeListViewerDialog.0.0.1920.1080@120dpi" width="1146" height="735" />
+    <size key="GitCloneDialog.0.0.1920.1080@120dpi" width="573" height="296" />
+  </component>
+</application>
